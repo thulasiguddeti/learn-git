@@ -15,3 +15,4 @@ developer spends some time and pushes to git lot of time as part of development
 * adding more code 
 * still adding more 
 * now it is going to be done 
+* It has completed now 
