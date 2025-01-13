@@ -12,3 +12,4 @@ developer spends some time and pushes to git lot of time as part of development
 
 ## squash 
 * started development 
+* adding more code 
