@@ -9,3 +9,6 @@ developer spends some time and pushes to git lot of time as part of development
 *rebase is a another merge strategy 
 *developing still 
 *now development is completed
+
+## squash 
+* started development 
