@@ -17,3 +17,7 @@ developer spends some time and pushes to git lot of time as part of development
 * now it is going to be done 
 * It has completed now 
 * all done 
+
+### conflict
+* this is from developer-1, I want to keep this line of code 
+* this is again from developer-1 adding more code 
